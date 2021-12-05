@@ -165,4 +165,4 @@ Dan dilakukan visualisasi proses training dengan membuat plot metrik evaluasi
 
 ![evalrmse](https://user-images.githubusercontent.com/88422709/138634270-4032cae2-3263-4967-96f3-4dd7943922dc.png)
 
-dari hasil visualisasi didapatkan bahwa proses training model cukup smooth dan model konvergen pada epochs sekitar 100. Dari proses ini, kita memperoleh nilai error akhir sebesar sekitar 0.0,0286 dan error pada data validasi sebesar 0.1850. Nilai tersebut cukup bagus untuk sistem rekomendasi.
+dari hasil visualisasi didapatkan bahwa proses training model cukup smooth dan model konvergen pada epochs sekitar 100. Dari proses ini, kita memperoleh nilai error akhir sebesar sekitar 0.0286 dan error pada data validasi sebesar 0.1850. Nilai tersebut cukup bagus untuk sistem rekomendasi.
